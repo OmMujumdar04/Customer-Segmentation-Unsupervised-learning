@@ -1,4 +1,4 @@
-# 🛍️ Customer Segmentation using RFM Analysis & Unsupervised Learning
+#  Customer Segmentation using RFM Analysis & Unsupervised Learning
 
 An end-to-end unsupervised machine learning project that segments customers of a UK-based e-commerce retailer into meaningful groups using RFM Analysis, K-Means Clustering, DBSCAN, and PCA — turning raw transaction data into actionable business intelligence.
 
